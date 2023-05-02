@@ -2,8 +2,8 @@ import pyupbit
 import pyupbit.websocket_api as wsck
 
 
-access_key = "RSN3OKMJehVdvjFGaxj6M2L6stZCp5FQlCR8Zxm5"
-secret_key = "lgFo0ejmY0ghq01Btz34OIWNNLLkjKaLcDen0m15"
+access_key = "xxx"
+secret_key = "xxx"
 upbit = pyupbit.Upbit(access_key, secret_key)
 
 #스토리 보드
